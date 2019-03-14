@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
+nav-menu: false
+show_tile: false
+image: assets/images/pic03.jpg
 ---
 
 <!-- Main -->
