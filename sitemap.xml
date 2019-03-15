@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.nositemaps.org/schemas/nositemap/0.9">
+    {% for page in site.pages %}
+        {% unless page.nositemap %}
+            <url>
+                <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
+            </url>
+        {% endunless %}
+    {% endfor %}
+    {% for post in site.posts %}
+        {% unless post.nositemap %}
+            <url>
+                <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+            </url>
+        {% endunless %}
+  {% endfor %}
+</urlset>

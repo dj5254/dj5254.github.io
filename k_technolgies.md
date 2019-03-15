@@ -4,6 +4,7 @@ title: Technologies
 description: Experties in multiple technologies 
 image: assets/images/pic11.jpg
 nav-menu: true
+tiles-source: true
 ---
 
 # We have expertise in...

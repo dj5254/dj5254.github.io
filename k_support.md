@@ -4,6 +4,7 @@ layout: page
 description: 'Find out more...'
 image: assets/images/pic07.jpg
 nav-menu: true
+tiles-source: true
 ---
 
 <!-- Main -->
