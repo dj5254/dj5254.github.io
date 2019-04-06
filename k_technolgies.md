@@ -2,6 +2,7 @@
 layout: post
 title: Technologies
 description: Experties in multiple technologies 
+metaDescription: 'Java, .Net, VB Dot net, Python, Javascript, Javascript Frameworks (Angular, React, Vue, jQuery, Node JS, Webpack, Gulp, Grunt, npm), J2EE Web application, Java Web technologies  (Spring, Hibernate, Struts, Rest, SOAP...), Python Web technologies (Djano, Flask...)'
 image: assets/images/pic11.jpg
 nav-menu: true
 tiles-source: true

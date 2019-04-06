@@ -2,6 +2,7 @@
 layout: post
 title: Our Commitment
 description: Our Commitment
+metaDescription: 'Deliveries well within deadlines, We make sure that the deliverable are ready well withing deadlines.24X7 Support We have people mostly in all timezones, somebody is always up to work with you. In scanarios where you need urgent help in you job, our team is there for you.'
 image: assets/images/pic03.jpg
 nav-menu: true
 tiles-source: true
