@@ -4,6 +4,7 @@ title: Elements
 nav-menu: false
 show_tile: false
 image: assets/images/pic03.jpg
+nositemap: true
 ---
 
 <!-- Main -->
